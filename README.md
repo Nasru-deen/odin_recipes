@@ -1,2 +1,2 @@
 # odin_recipes
-Simple html Recipe webpage
+Simple html Recipe webpage odin project
